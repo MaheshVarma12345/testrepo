@@ -4,6 +4,8 @@ menu
 Idly
 Sambar
 Vada
+test1
+test2
 
 idlysambar
 Biriyani
