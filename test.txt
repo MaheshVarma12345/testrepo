@@ -1,4 +1,6 @@
 ########Welcome to this hotel ################
+menu
+
 Idly
 Sambar
 Vada
