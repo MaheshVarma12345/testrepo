@@ -2,3 +2,5 @@ Idly
 Sambar
 Vada
 
+idlysambar
+Biriyani
